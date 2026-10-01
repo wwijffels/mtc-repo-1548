@@ -1,2 +1,1 @@
-# mtc-repo-1548
-Terraform code for MTC project
+# This repository is for infra developers
